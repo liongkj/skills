@@ -1,8 +1,8 @@
-# AI-Native Product Skills
+# Agent Skills
 
-A collection of agent skills for designing, scoping, evaluating, and shipping AI-native products.
+A collection of agent skills for AI-native product work and Codex workflows.
 
-These skills help AI coding agents and product agents avoid common AI product failure modes:
+The AI-native skills help coding and product agents avoid common AI product failure modes:
 
 - chatbot-first thinking
 - unclear user value
@@ -19,6 +19,10 @@ These skills help AI coding agents and product agents avoid common AI product fa
 
 - **[ai-implementation-review](./skills/ai-native/ai-implementation-review/SKILL.md)** — Audit AI implementation quality in an existing codebase.
 - **[ai-eval-design](./skills/ai-native/ai-eval-design/SKILL.md)** — Convert product requirements into a concrete evaluation plan for AI behavior.
+
+### Codex
+
+- **[loop](./skills/codex/loop/SKILL.md)** — Check a durable job or external state on a schedule in the current Codex task.
 
 ## Quickstart
 
