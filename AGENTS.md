@@ -13,8 +13,9 @@ Skills in this repo are designed to be invoked by name as slash commands:
 
 - `/ai-implementation-review` — audit, diagnose, or evaluate AI implementation quality in a codebase
 - `/ai-eval-design` — convert product requirements into an evaluation plan for AI behavior
+- `/loop` — check a durable job or external state on a schedule in the current Codex task
 
-When a user invokes a skill, load the corresponding `SKILL.md` from `skills/ai-native/<skill-name>/` and follow its workflow.
+When a user invokes a skill, load the corresponding `SKILL.md` from `skills/<category>/<skill-name>/` and follow its workflow.
 
 ## Writing skills
 
